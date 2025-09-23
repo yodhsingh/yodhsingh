@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Dalyodh Singh  
-
 🎓 **3rd Year BS in Data Science & Applications @ IIT Madras**  
 💻 **Web Developer | Data Scientist | ML Enthusiast**  
 📫 Reach me at: [Email](mailto:dalyodhsingh1@gmail.com)  
-
+[![Portfolio](https://img.shields.io/badge/Website-Visit%20Now-764ba2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yodhsingh.github.io)
 ---
 
 ## 🚀 About Me
