@@ -29,7 +29,7 @@ Passionate about using data and code to unlock insights and build useful applica
 ---
 
 ## 📂 Projects
-- 📝 [Quiz Master](https://github.com/your-repo-link) – Role-based online exam platform with Flask + Vue + ChartJS  
+- 📝 [Quiz Master](https://github.com/yodhsingh/quiz_master) – Role-based online exam platform with Flask + Vue + ChartJS  
 - 🍹 [Juice Bar Analysis](https://github.com/your-repo-link) – Sales forecasting & insights using Python + Excel  
 
 ---
