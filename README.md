@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Dalyodh Singh  
+---
+
 [![Website](https://img.shields.io/badge/My%20Website-Visit-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yodhsingh.github.io)
+
 
 🎓 **3rd Year BS in Data Science & Applications @ IIT Madras**  
 💻 **Web Developer | Data Scientist | ML Enthusiast**  
