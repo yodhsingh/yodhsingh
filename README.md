@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Dalyodh Singh  
 
 [![Website](https://img.shields.io/badge/My%20Website-Visit-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yodhsingh.github.io)
+[![My Portfolio](https://img.shields.io/badge/Website-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/ds.study.iitm.ac.in/dalyodh-learning-journey)
 
 ---
 🎓 **3rd Year BS in Data Science & Applications @ IIT Madras**  
