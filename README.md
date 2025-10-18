@@ -33,11 +33,10 @@ Passionate about using data and code to unlock insights and build useful applica
 ---
 
 ## 📂 Projects
+- 👨‍💻[Malware Detection](https://www.kaggle.com/code/yodhsingh/22f3001166-notebook-t12025) - Predict malware infection probability based on system properties using telemetry data.
 - 📝 [Quiz Master](https://github.com/yodhsingh/quiz_master) – Role-based online exam platform with Flask + Vue + ChartJS  
 - 🍹 [Juice Bar Analysis](https://github.com/your-repo-link) – Sales forecasting & insights using Python + Excel
--  [Malware Detection](https://www.kaggle.com/code/yodhsingh/22f3001166-notebook-t12025) - Predict malware infection probability based on system properties using telemetry data.
 
----
 
 ## 🌐 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yodhsingh)  
