@@ -10,10 +10,10 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 Passionate about using data and code to unlock insights and build useful applications.  
-🌱 Currently exploring **Machine Learning, Flask apps, and Data Analysis**.  
-🔭 Open to collaborations, internships, and projects!  
+Currently exploring ** DL/ML Architects like CNNs, RNNs, Transformers. **.  
+Open to collaborations, internships, and projects!  
 
 ---
 
@@ -24,12 +24,12 @@ Passionate about using data and code to unlock insights and build useful applica
 ---
 
 ## 💡 Skills & Tools
-- **Languages:** Python, Java, SQL, R, Regex  
-- **Data Science:** Pandas, Numpy, Sklearn, Matplotlib, Seaborn, Data Cleaning, Visualization, Statistical Analysis
-- **ML Frameworks:** scikit-learn, TensorFlow, PyTorch, Model Training & Evaluation, Feature Engineering
-- **Generative AI & NLP**: Transformer Models (BERT, GPT, LLaMA), LangChain, RAG Pipelines, Vector Databases, Text Processing, Prompt Engineering
-- **Cloud & Deployment:** AWS, GCP, Docker, REST APIs, Model Deployment (Flask, Streamlit)
-- **Tools & Collaboration**: Git, GitHub, Jupyter Notebook, VS Code, Vim
+- **Programming Languages:** Python, Java, SQL, R, Regex.
+- **Data Science:** Pandas, Numpy, Sklearn, Matplotlib, Seaborn, Data Cleaning, Visualization, Statistical Analysis.
+- **ML Frameworks:** scikit-learn, TensorFlow, PyTorch, Model Training & Evaluation, Feature Engineering.
+- **Generative AI & NLP**: Transformer Models (BERT, GPT, LLaMA), LangChain, RAG Pipelines, Vector Databases, Text Processing, Prompt Engineering.
+- **Cloud & Deployment:** AWS, GCP, Docker, REST APIs, Model Deployment (Flask, Streamlit).
+- **Tools & Collaboration**: Git, GitHub, Jupyter Notebook, VS Code, Vim.
 - **Soft & Leadership Skills:** Analytical thinking, technical leadership, team mentoring, cross-functional collaboration, effective communication, and problem-solving under dynamic project environments.
 
 ---
@@ -48,5 +48,3 @@ Passionate about using data and code to unlock insights and build useful applica
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/yodhsingh)  
 
 ---
-
-⭐ *Made with ❤️ by Dalyodh Singh*  
