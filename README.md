@@ -5,7 +5,7 @@
 
 ---
 🎓 **3rd Year BS in Data Science & Applications @ IIT Madras**  
-💻 **Web Developer | Data Scientist | ML Enthusiast**  
+💻 **Data Scientist | ML Enthusiast**  
 📫 Reach me at: [Email](mailto:dalyodhsingh1@gmail.com)  
 
 ---
