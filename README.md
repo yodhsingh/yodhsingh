@@ -12,7 +12,7 @@
 
 ## About Me
 Passionate about using data and code to unlock insights and build useful applications.  
-Currently exploring ** DL/ML Architects like CNNs, RNNs, Transformers. **.  
+Currently exploring **DL/ML Architects like CNNs, RNNs, Transformers**.  
 Open to collaborations, internships, and projects!  
 
 ---
