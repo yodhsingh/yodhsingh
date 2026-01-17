@@ -37,7 +37,7 @@ Open to collaborations, internships, and projects!
 ## 📂 Projects
 - 👨‍💻[Malware Detection](https://www.kaggle.com/code/yodhsingh/22f3001166-notebook-t12025) - Predict malware infection probability based on system properties using telemetry data.
 - 📝 [Quiz Master](https://github.com/yodhsingh/quiz_master) – Role-based online exam platform with Flask + Vue + ChartJS  
-- 🍹 [Juice Bar Analysis](https://github.com/your-repo-link) – Sales forecasting & insights using Python + Excel
+- 🍹 [Juice Bar Analysis](https://github.com/yodhsingh/businessdatamanagement) – Sales forecasting & insights using Python + Excel
 
 
 ## 🌐 Connect with Me
