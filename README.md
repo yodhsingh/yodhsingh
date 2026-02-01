@@ -1,50 +1,125 @@
-# 👋 Hi, I'm Dalyodh Singh  
+<!-- ========================= -->
+<!--  GitHub Profile README   -->
+<!-- ========================= -->
 
-[![Website](https://img.shields.io/badge/My%20Website-Visit-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yodhsingh.github.io)
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-Explore%20Now-5a3e99?style=for-the-badge&logo=tensorflow&logoColor=white)](https://sites.google.com/ds.study.iitm.ac.in/dalyodh-learning-journey)
+<h1 align="center" style="color:#7C3AED;">
+👋 Hi, I'm <span style="color:#38BDF8;">Dalyodh Singh</span>
+</h1>
+
+<h3 align="center" style="color:#F9FAFB;">
+Data Science & Machine Learning Engineer  
+<br/>
+<sub>Strong in ML fundamentals, backend systems, and applied AI</sub>
+</h3>
+
+<p align="center">
+  <a href="https://yodhsingh.github.io">
+    <img src="https://img.shields.io/badge/Website-Visit-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://sites.google.com/ds.study.iitm.ac.in/dalyodh-learning-journey">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-38BDF8?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  </a>
+</p>
 
 ---
-🎓 **3rd Year BS in Data Science & Applications @ IIT Madras**  
-💻 **Data Scientist | ML Enthusiast**  
-📫 Reach me at: [Email](mailto:dalyodhsingh1@gmail.com)  
 
----
+## 🧠 About Me
 
-## About Me
-Passionate about using data and code to unlock insights and build useful applications.  
-Currently exploring **DL/ML Architects like CNNs, RNNs, Transformers**.  
-Open to collaborations, internships, and projects!  
+🎓 **BS in Data Science & Applications @ IIT Madras (3rd Year)**  
+💡 Passionate about **Machine Learning, Backend Systems, and Applied AI**  
+📊 Strong foundation in **Maths, Statistics, DBMS, and ML Algorithms**  
+🚀 Interested in internships and entry-level roles in **Data Science / ML / Backend Engineering**
 
 ---
 
 ## 🎓 Education
-- **BS in Data Science & Applications** – IIT Madras (2022–2026), CGPA: 8.56  
-- **12th PCM** – GDR Convent Sr. Sec. School (2020), 65%  
+
+- **BS in Data Science & Applications** — IIT Madras (2022–2026)  
+  **CGPA:** 8.56  
+- **Class XII (PCM)** — GDR Convent Sr. Sec. School (2020)
 
 ---
 
-## 💡 Skills & Tools
-- **Programming Languages:** Python, Java, SQL, R, Regex.
-- **Data Science:** Pandas, Numpy, Sklearn, Matplotlib, Seaborn, Data Cleaning, Visualization, Statistical Analysis.
-- **ML Frameworks:** scikit-learn, TensorFlow, PyTorch, Model Training & Evaluation, Feature Engineering.
-- **Generative AI & NLP**: Transformer Models (BERT, GPT, LLaMA), LangChain, RAG Pipelines, Vector Databases, Text Processing, Prompt Engineering.
-- **Cloud & Deployment:** AWS, GCP, Docker, REST APIs, Model Deployment (Flask, Streamlit).
-- **Tools & Collaboration**: Git, GitHub, Jupyter Notebook, VS Code, Vim.
-- **Soft & Leadership Skills:** Analytical thinking, technical leadership, team mentoring, cross-functional collaboration, effective communication, and problem-solving under dynamic project environments.
+## 🛠️ Skills & Tools
+
+### 👨‍💻 Programming
+- Python, Java, SQL, R, Regex
+
+### 📊 Data Science & ML
+- Pandas, NumPy, Scikit-learn  
+- Linear Regression, Logistic Regression, SVM  
+- EDA, Feature Engineering, Model Evaluation  
+- Statistics & Probability
+
+### 🤖 Generative AI & NLP
+- Transformers (BERT, GPT, LLaMA)
+- Prompt Engineering
+- RAG Pipelines
+- Vector Databases
+
+### 🌐 Backend & Deployment
+- Flask, JWT Authentication
+- REST APIs
+- PostgreSQL
+- Docker
+- AWS, GCP
+- Streamlit
+
+### 🧰 Tools
+- Git & GitHub
+- Jupyter Notebook
+- VS Code
+- Vim
 
 ---
 
 ## 📂 Projects
-- 👨‍💻[Malware Detection](https://www.kaggle.com/code/yodhsingh/22f3001166-notebook-t12025) - Predict malware infection probability based on system properties using telemetry data.
-- 📝 [Quiz Master](https://github.com/yodhsingh/quiz_master) – Role-based online exam platform with Flask + Vue + ChartJS  
-- 🍹 [Juice Bar Analysis](https://github.com/yodhsingh/businessdatamanagement) – Sales forecasting & insights using Python + Excel
 
-
-## 🌐 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yodhsingh)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dalyodh-singh-786914254/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/yodhsingh/)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yodhsingh)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/yodhsingh)  
+### 🛡️ Malware Detection using Machine Learning
+🔗 https://www.kaggle.com/code/yodhsingh/22f3001166-notebook-t12025  
+- Built a malware classification system using system telemetry data  
+- Performed EDA, feature engineering, preprocessing, and model tuning  
+- Evaluated Logistic Regression, Decision Tree, and XGBoost  
+- Achieved high accuracy and reliable prediction performance  
 
 ---
+
+### 📝 Quiz Master — Online Examination Platform
+🔗 https://github.com/yodhsingh/quiz_master  
+- Full-stack role-based exam system  
+- Backend: Flask + JWT  
+- Frontend: Vue.js  
+- Analytics using ChartJS  
+
+---
+
+### 🍹 Juice Bar Analysis
+🔗 https://github.com/yodhsingh/businessdatamanagement  
+- Sales forecasting and business insights  
+- Python-based data analysis and visualization  
+- Decision-driven reporting  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/yodhsingh">
+    <img src="https://img.shields.io/badge/GitHub-0F0F0F?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/dalyodh-singh-786914254/">
+    <img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/yodhsingh/">
+    <img src="https://img.shields.io/badge/LeetCode-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/yodhsingh">
+    <img src="https://img.shields.io/badge/Kaggle-38BDF8?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center" style="color:#9CA3AF;">
+✨ Always learning. Always building. Open to collaboration.
+</p>
