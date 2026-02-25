@@ -16,7 +16,7 @@ Data Science & Machine Learning Engineer
   <a href="https://yodhsingh.github.io">
     <img src="https://img.shields.io/badge/Website-Visit-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://sites.google.com/ds.study.iitm.ac.in/dalyodh-learning-journey">
+  <a href="https://sites.google.com/ds.study.iitm.ac.in/singh-learning-journey">
     <img src="https://img.shields.io/badge/Portfolio-Explore-38BDF8?style=for-the-badge&logo=tensorflow&logoColor=white" />
   </a>
 </p>
