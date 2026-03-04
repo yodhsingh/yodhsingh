@@ -13,7 +13,7 @@ Data Science & Machine Learning Engineer
 </h3>
 
 <p align="center">
-  <a href="https://yodhsingh.github.io">
+  <a href="https://yodhsingh.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Website-Visit-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://sites.google.com/ds.study.iitm.ac.in/singh-learning-journey">
