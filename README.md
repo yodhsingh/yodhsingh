@@ -6,7 +6,7 @@ Indian Institute of Technology, Madras
 Email: 22f3001166@ds.study.iitm.ac.in  
 Phone: +91-9878200213  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-764ba2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yodhsingh.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-764ba2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yodhsingh.github.io/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dalyodh%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dalyodh-singh-786914254/)
 
 ---
