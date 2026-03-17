@@ -1,15 +1,11 @@
-<!-- ========================= -->
-<!--  GitHub Profile README   -->
-<!-- ========================= -->
-
 <h1 align="center" style="color:#7C3AED;">
 👋 Hi, I'm <span style="color:#38BDF8;">Dalyodh Singh</span>
 </h1>
 
 <h3 align="center" style="color:#F9FAFB;">
-Data Science & Machine Learning Engineer  
+AI/ML & Full-Stack Developer 
 <br/>
-<sub>Strong in ML fundamentals, backend systems, and applied AI</sub>
+<sub>Specializing in Generative AI, LLMs, and Scalable AI Applications</sub>
 </h3>
 
 <p align="center">
@@ -25,79 +21,59 @@ Data Science & Machine Learning Engineer
 
 ## 🧠 About Me
 
-🎓 **BS in Data Science & Applications @ IIT Madras (3rd Year)**  
-💡 Passionate about **Machine Learning, Backend Systems, and Applied AI**  
-📊 Strong foundation in **Maths, Statistics, DBMS, and ML Algorithms**  
-🚀 Interested in internships and entry-level roles in **Data Science / ML / Backend Engineering**
-
----
-
-## 🎓 Education
-
-- **BS in Data Science & Applications** — IIT Madras (2022–2026)  
-  **CGPA:** 8.56  
-- **Class XII (PCM)** — GDR Convent Sr. Sec. School (2020)
+[cite_start]🎓 **BS in Data Science & Applications @ IIT Madras** [cite: 36, 37]
+[cite_start]💡 **GenAI Specialist:** Focused on building LLM-based systems and automated workflows [cite: 5, 13]
+[cite_start]🚀 **Full-Stack AI:** Proven ability to deploy scalable applications using Python, Flask, and React [cite: 6, 11]
+[cite_start]📊 **Analytical Leader:** Experienced in translating complex AI concepts into actionable strategies [cite: 8]
 
 ---
 
 ## 🛠️ Skills & Tools
 
-### 👨‍💻 Programming
-- Python, Java, SQL, R, Regex
+### 🤖 Machine Learning & GenAI
+- [cite_start]**LLMs:** Gemini API, Prompt Engineering, RAG Pipelines [cite: 5, 13]
+- [cite_start]**Frameworks:** PyTorch, Scikit-learn, XGBoost [cite: 25, 30]
+- [cite_start]**Data:** Pandas, NumPy, Matplotlib, Seaborn [cite: 22, 30]
 
-### 📊 Data Science & ML
-- Pandas, NumPy, Scikit-learn  
-- Linear Regression, Logistic Regression, SVM  
-- EDA, Feature Engineering, Model Evaluation  
-- Statistics & Probability
+### 🌐 Full-Stack AI Development
+- [cite_start]**Backend:** Python, FastAPI, Flask, REST APIs [cite: 10, 12, 18]
+- [cite_start]**Frontend:** React, Vue.js, TypeScript, Tailwind CSS [cite: 10, 16, 31]
+- [cite_start]**Async Tasks:** Celery, Redis, MailHog [cite: 20, 32]
 
-### 🤖 Generative AI & NLP
-- Transformers (BERT, GPT, LLaMA)
-- Prompt Engineering
-- RAG Pipelines
-- Vector Databases
-
-### 🌐 Backend & Deployment
-- Flask, JWT Authentication
-- REST APIs
-- PostgreSQL
-- Docker
-- AWS, GCP
-- Streamlit
-
-### 🧰 Tools
-- Git & GitHub
-- Jupyter Notebook
-- VS Code
-- Vim
+### ☁️ Cloud & Databases
+- [cite_start]**Cloud:** AWS (Foundation) [cite: 32]
+- [cite_start]**DBs:** PostgreSQL, SQLite, SQLAlchemy [cite: 10, 32]
+- [cite_start]**DevOps:** Git/GitHub, Docker, Agile Methodologies [cite: 15, 21]
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
+
+### 🌊 HireWave.AI - GenAI Interview Platform
+[cite_start]*Built an automated candidate screening and interview generation system.* [cite: 10, 11]
+- [cite_start]**Tech:** FastAPI, React, PostgreSQL, Gemini API 
+- [cite_start]**Impact:** Integrated LLM-driven question generation to streamline talent acquisition workflows [cite: 13]
+- [cite_start]**Dev:** Followed Agile methodologies for iterative development and deployment [cite: 15]
 
 ### 🛡️ Malware Detection using Machine Learning
-🔗 https://www.kaggle.com/code/yodhsingh/22f3001166-notebook-t12025  
-- Built a malware classification system using system telemetry data  
-- Performed EDA, feature engineering, preprocessing, and model tuning  
-- Evaluated Logistic Regression, Decision Tree, and XGBoost  
-- Achieved high accuracy and reliable prediction performance  
+[cite_start]*Classification system for system telemetry data.* [cite: 22]
+- [cite_start]**Scope:** Worked with 100k+ samples and 180+ features [cite: 23]
+- [cite_start]**Models:** Benchmarked Logistic Regression, Decision Trees, and XGBoost [cite: 25]
+- [cite_start]**Ops:** Built preprocessing pipelines using `ColumnTransformer` for mixed data types [cite: 24]
+
+### 📝 Quiz Master — Interactive Platform
+[cite_start]*Full-stack role-based exam system with asynchronous reporting.* [cite: 16]
+- [cite_start]**Tech:** Vue 3, Flask, Chart.js, Redis/Celery [cite: 16, 20]
+- [cite_start]**Features:** Real-time analytics and automated CSV/email reporting [cite: 19, 20]
 
 ---
 
-### 📝 Quiz Master — Online Examination Platform
-🔗 https://github.com/yodhsingh/quiz_master  
-- Full-stack role-based exam system  
-- Backend: Flask + JWT  
-- Frontend: Vue.js  
-- Analytics using ChartJS  
+## 🎓 Education & Certifications
 
----
-
-### 🍹 Juice Bar Analysis
-🔗 https://github.com/yodhsingh/businessdatamanagement  
-- Sales forecasting and business insights  
-- Python-based data analysis and visualization  
-- Decision-driven reporting  
+- [cite_start]**BS in Data Science & Applications** — IIT Madras (2022–2026) [cite: 36]
+  - [cite_start]**CGPA:** 8.5/10 [cite: 37]
+  - [cite_start]**Coursework:** Deep Learning, Machine Learning, Statistics, Linear Algebra [cite: 38]
+- [cite_start]**AWS Cloud Practitioner** (Foundation) [cite: 32]
 
 ---
 
@@ -110,16 +86,11 @@ Data Science & Machine Learning Engineer
   <a href="https://www.linkedin.com/in/dalyodh-singh-786914254/">
     <img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/yodhsingh/">
-    <img src="https://img.shields.io/badge/LeetCode-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://www.kaggle.com/yodhsingh">
-    <img src="https://img.shields.io/badge/Kaggle-38BDF8?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <a href="mailto:22f3001166@ds.study.iitm.ac.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
-
 <p align="center" style="color:#9CA3AF;">
-✨ Always learning. Always building. Open to collaboration.
+[cite_start]✨ Seeking to drive AI transformation in Business Development and Staffing Tech. 
 </p>
