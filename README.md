@@ -1,96 +1,65 @@
-<h1 align="center" style="color:#7C3AED;">
-👋 Hi, I'm <span style="color:#38BDF8;">Dalyodh Singh</span>
-</h1>
+Dalyodh Singh
 
-<h3 align="center" style="color:#F9FAFB;">
-AI/ML & Full-Stack Developer 
-<br/>
-<sub>Specializing in Generative AI, LLMs, and Scalable AI Applications</sub>
-</h3>
+AI/ML & Full-Stack Developer Indian Institute of Technology, Madras Contact Information 9878200213 | 22f3001166@ds.study.iitm.ac.in
 
-<p align="center">
-  <a href="https://yodhsingh.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Website-Visit-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://sites.google.com/ds.study.iitm.ac.in/singh-learning-journey">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-38BDF8?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  </a>
-</p>
+Portfolio | LinkedIn | GitHub
 
----
+Professional Summary
 
-## 🧠 About Me
+Highly analytical student specializing in Generative AI, Large Language Models (LLMs), and prompt engineering. Proven experience in developing and deploying scalable full-stack AI applications using Python, Flask, and React. Seeking to drive AI transformation within Business Development and Staffing Technology through a combination of technical rigor and professional leadership.
 
-[cite_start]🎓 **BS in Data Science & Applications @ IIT Madras** [cite: 36, 37]
-[cite_start]💡 **GenAI Specialist:** Focused on building LLM-based systems and automated workflows [cite: 5, 13]
-[cite_start]🚀 **Full-Stack AI:** Proven ability to deploy scalable applications using Python, Flask, and React [cite: 6, 11]
-[cite_start]📊 **Analytical Leader:** Experienced in translating complex AI concepts into actionable strategies [cite: 8]
+Education
 
----
+Indian Institute of Technology, Madras | Sep 2022 – Dec 2026
 
-## 🛠️ Skills & Tools
+Bachelor of Science in Data Science and Applications * CGPA: 8.5 / 10.0
 
-### 🤖 Machine Learning & GenAI
-- [cite_start]**LLMs:** Gemini API, Prompt Engineering, RAG Pipelines [cite: 5, 13]
-- [cite_start]**Frameworks:** PyTorch, Scikit-learn, XGBoost [cite: 25, 30]
-- [cite_start]**Data:** Pandas, NumPy, Matplotlib, Seaborn [cite: 22, 30]
+Relevant Coursework: Linear Algebra, Calculus, Graph Theory, Machine Learning, Deep Learning, Statistics, and Data Structures.
 
-### 🌐 Full-Stack AI Development
-- [cite_start]**Backend:** Python, FastAPI, Flask, REST APIs [cite: 10, 12, 18]
-- [cite_start]**Frontend:** React, Vue.js, TypeScript, Tailwind CSS [cite: 10, 16, 31]
-- [cite_start]**Async Tasks:** Celery, Redis, MailHog [cite: 20, 32]
+Technical Expertise
 
-### ☁️ Cloud & Databases
-- [cite_start]**Cloud:** AWS (Foundation) [cite: 32]
-- [cite_start]**DBs:** PostgreSQL, SQLite, SQLAlchemy [cite: 10, 32]
-- [cite_start]**DevOps:** Git/GitHub, Docker, Agile Methodologies [cite: 15, 21]
+Programming Languages: Python, SQL, R, Java, JavaScript, TypeScript.
 
----
+Data Science & Machine Learning: NumPy, Pandas, Matplotlib, Scikit-Learn, PyTorch.
 
-## 📂 Featured Projects
+Generative AI & NLP: Transformers (LLaMA, GPT), Prompt Engineering, RAG Pipelines.
 
-### 🌊 HireWave.AI - GenAI Interview Platform
-[cite_start]*Built an automated candidate screening and interview generation system.* [cite: 10, 11]
-- [cite_start]**Tech:** FastAPI, React, PostgreSQL, Gemini API 
-- [cite_start]**Impact:** Integrated LLM-driven question generation to streamline talent acquisition workflows [cite: 13]
-- [cite_start]**Dev:** Followed Agile methodologies for iterative development and deployment [cite: 15]
+Full-Stack Development: FastAPI, Flask, React, Vue.js, Tailwind CSS.
 
-### 🛡️ Malware Detection using Machine Learning
-[cite_start]*Classification system for system telemetry data.* [cite: 22]
-- [cite_start]**Scope:** Worked with 100k+ samples and 180+ features [cite: 23]
-- [cite_start]**Models:** Benchmarked Logistic Regression, Decision Trees, and XGBoost [cite: 25]
-- [cite_start]**Ops:** Built preprocessing pipelines using `ColumnTransformer` for mixed data types [cite: 24]
+Infrastructure & Databases: PostgreSQL, SQLAlchemy, Redis, Celery, AWS (Foundation).
 
-### 📝 Quiz Master — Interactive Platform
-[cite_start]*Full-stack role-based exam system with asynchronous reporting.* [cite: 16]
-- [cite_start]**Tech:** Vue 3, Flask, Chart.js, Redis/Celery [cite: 16, 20]
-- [cite_start]**Features:** Real-time analytics and automated CSV/email reporting [cite: 19, 20]
+Research & Academic Projects
 
----
+HireWave.AI: GenAI Interview Platform (Sep 2025 – Dec 2025)
 
-## 🎓 Education & Certifications
+Developed a full-stack platform using React, FastAPI, and PostgreSQL for automated candidate screening.
 
-- [cite_start]**BS in Data Science & Applications** — IIT Madras (2022–2026) [cite: 36]
-  - [cite_start]**CGPA:** 8.5/10 [cite: 37]
-  - [cite_start]**Coursework:** Deep Learning, Machine Learning, Statistics, Linear Algebra [cite: 38]
-- [cite_start]**AWS Cloud Practitioner** (Foundation) [cite: 32]
+Engineered an LLM-based system using Gemini APIs to automate interview question generation for talent acquisition workflows.
 
----
+Integrated responsive UI components and followed Agile methodologies for iterative development and deployment.
 
-## 🌐 Connect With Me
+Malware Detection via Machine Learning (Jan 2025 – April 2025)
 
-<p align="center">
-  <a href="https://github.com/yodhsingh">
-    <img src="https://img.shields.io/badge/GitHub-0F0F0F?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/dalyodh-singh-786914254/">
-    <img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:22f3001166@ds.study.iitm.ac.in">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+Analyzed 100k+ tabular samples with 180+ features using Scikit-learn and Pandas.
 
-<p align="center" style="color:#9CA3AF;">
-[cite_start]✨ Seeking to drive AI transformation in Business Development and Staffing Tech. 
-</p>
+Implemented preprocessing pipelines and benchmarked Logistic Regression, Decision Trees, and XGBoost models.
+
+Performed hyperparameter tuning and cross-validation to optimize model generalization and accuracy.
+
+Quiz Master: Online Examination System (Jan 2025 – April 2025)
+
+Built a dynamic quiz platform utilizing Vue 3 component-based architecture and a Flask REST API backend.
+
+Leveraged Celery and Redis for asynchronous task queuing of CSV exports and automated reporting.
+
+Business Data Management: Juice Bar Analysis
+
+Conducted sales forecasting and data-driven reporting to derive actionable business insights.
+
+Utilized Python for comprehensive data visualization and statistical reporting to support decision-making.
+
+Academic Mentorship & Leadership
+
+Mathematics Mentor: Provided peer mentorship in Linear Algebra and Calculus, focusing on simplifying complex mathematical concepts for improved student understanding.
+
+College Team Captain (Sports): Demonstrated strategic leadership and disciplined decision-making as captain for the Volleyball and Basketball teams.
