@@ -8,7 +8,6 @@ Phone: +91-9878200213
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-764ba2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yodhsingh.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dalyodh%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dalyodh-singh-786914254/)
-[![GitHub](https://img.shields.io/badge/GitHub-yodhsingh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yodhsingh)
 
 ---
 
