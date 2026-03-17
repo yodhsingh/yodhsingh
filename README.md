@@ -1,65 +1,84 @@
-Dalyodh Singh
+# Dalyodh Singh  
 
-AI/ML & Full-Stack Developer Indian Institute of Technology, Madras Contact Information 9878200213 | 22f3001166@ds.study.iitm.ac.in
+AI/ML & Full-Stack Developer  
+Indian Institute of Technology, Madras  
 
-Portfolio | LinkedIn | GitHub
+Email: 22f3001166@ds.study.iitm.ac.in  
+Phone: +91-9878200213  
 
-Professional Summary
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-764ba2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yodhsingh.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dalyodh%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dalyodh-singh-786914254/)
+[![GitHub](https://img.shields.io/badge/GitHub-yodhsingh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yodhsingh)
 
-Highly analytical student specializing in Generative AI, Large Language Models (LLMs), and prompt engineering. Proven experience in developing and deploying scalable full-stack AI applications using Python, Flask, and React. Seeking to drive AI transformation within Business Development and Staffing Technology through a combination of technical rigor and professional leadership.
+---
 
-Education
+## Professional Summary  
+Highly analytical student specializing in Generative AI, Large Language Models (LLMs), and prompt engineering. Experienced in developing and deploying scalable full-stack AI applications using Python, Flask, and modern web technologies. Interested in applying AI to business development and staffing technology, with a focus on practical impact and technical rigor.
 
-Indian Institute of Technology, Madras | Sep 2022 – Dec 2026
+---
 
-Bachelor of Science in Data Science and Applications * CGPA: 8.5 / 10.0
+## Education  
+**Indian Institute of Technology, Madras**  
+Bachelor of Science in Data Science and Applications  
+Sep 2022 – Dec 2026  
+CGPA: 8.5 / 10.0  
 
-Relevant Coursework: Linear Algebra, Calculus, Graph Theory, Machine Learning, Deep Learning, Statistics, and Data Structures.
+Relevant Coursework: Linear Algebra, Calculus, Graph Theory, Machine Learning, Deep Learning, Statistics, Data Structures  
 
-Technical Expertise
+---
 
-Programming Languages: Python, SQL, R, Java, JavaScript, TypeScript.
+## Technical Skills  
 
-Data Science & Machine Learning: NumPy, Pandas, Matplotlib, Scikit-Learn, PyTorch.
+**Programming Languages:** Python, SQL, R, Java, JavaScript, TypeScript  
 
-Generative AI & NLP: Transformers (LLaMA, GPT), Prompt Engineering, RAG Pipelines.
+**Data Science & Machine Learning:** NumPy, Pandas, Matplotlib, Scikit-Learn, PyTorch  
 
-Full-Stack Development: FastAPI, Flask, React, Vue.js, Tailwind CSS.
+**Generative AI & NLP:** Transformers (GPT, LLaMA), Prompt Engineering, RAG Pipelines  
 
-Infrastructure & Databases: PostgreSQL, SQLAlchemy, Redis, Celery, AWS (Foundation).
+**Full-Stack Development:** Flask, FastAPI, React, Vue.js, Tailwind CSS  
 
-Research & Academic Projects
+**Infrastructure & Databases:** PostgreSQL, SQLAlchemy, Redis, Celery, AWS (Foundational)  
 
-HireWave.AI: GenAI Interview Platform (Sep 2025 – Dec 2025)
+---
 
-Developed a full-stack platform using React, FastAPI, and PostgreSQL for automated candidate screening.
+## Projects  
 
-Engineered an LLM-based system using Gemini APIs to automate interview question generation for talent acquisition workflows.
+**HireWave.AI – GenAI Interview Platform**  
+Sep 2025 – Dec 2025  
+- Developed a full-stack platform using React, FastAPI, and PostgreSQL for automated candidate screening  
+- Built an LLM-based system using Gemini APIs for interview question generation  
+- Followed Agile development practices for iterative improvement  
 
-Integrated responsive UI components and followed Agile methodologies for iterative development and deployment.
+**Malware Detection using Machine Learning**  
+Jan 2025 – Apr 2025  
+- Analyzed over 100,000 samples with 180+ features  
+- Implemented and compared Logistic Regression, Decision Trees, and XGBoost  
+- Applied cross-validation and hyperparameter tuning for performance optimization  
 
-Malware Detection via Machine Learning (Jan 2025 – April 2025)
+**Quiz Master – Online Examination System**  
+Jan 2025 – Apr 2025  
+- Built a role-based quiz platform using Vue 3 and Flask REST API  
+- Implemented asynchronous processing with Celery and Redis  
+- Enabled reporting and CSV export features  
 
-Analyzed 100k+ tabular samples with 180+ features using Scikit-learn and Pandas.
+**Business Data Management – Juice Bar Analysis**  
+- Conducted sales analysis and forecasting  
+- Developed visualizations and statistical reports using Python  
+- Provided actionable insights for business decision-making  
 
-Implemented preprocessing pipelines and benchmarked Logistic Regression, Decision Trees, and XGBoost models.
+---
 
-Performed hyperparameter tuning and cross-validation to optimize model generalization and accuracy.
+## Experience and Leadership  
 
-Quiz Master: Online Examination System (Jan 2025 – April 2025)
+**Mathematics Mentor**  
+- Mentored students in Linear Algebra and Calculus  
+- Focused on simplifying complex concepts for better understanding  
 
-Built a dynamic quiz platform utilizing Vue 3 component-based architecture and a Flask REST API backend.
+**College Sports Captain (Volleyball and Basketball)**  
+- Led teams in competitive events  
+- Demonstrated leadership, discipline, and strategic decision-making  
 
-Leveraged Celery and Redis for asynchronous task queuing of CSV exports and automated reporting.
+---
 
-Business Data Management: Juice Bar Analysis
-
-Conducted sales forecasting and data-driven reporting to derive actionable business insights.
-
-Utilized Python for comprehensive data visualization and statistical reporting to support decision-making.
-
-Academic Mentorship & Leadership
-
-Mathematics Mentor: Provided peer mentorship in Linear Algebra and Calculus, focusing on simplifying complex mathematical concepts for improved student understanding.
-
-College Team Captain (Sports): Demonstrated strategic leadership and disciplined decision-making as captain for the Volleyball and Basketball teams.
+## Interests  
+Building AI-driven applications for real-world problem solving, data analysis, and scalable web systems  
