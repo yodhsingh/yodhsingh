@@ -19,7 +19,7 @@ Highly analytical student specializing in Generative AI, Large Language Models (
 ## Education  
 **Indian Institute of Technology, Madras**  
 Bachelor of Science in Data Science and Applications  
-Sep 2022 – Dec 2026  
+Sep 2022 – Present 
 CGPA: 8.5 / 10.0  
 
 Relevant Coursework: Linear Algebra, Calculus, Graph Theory, Machine Learning, Deep Learning, Statistics, Data Structures  
