@@ -16,20 +16,26 @@ Final-year B.S. Data Science student skilled in statistics, machine learning, da
 
 ---
 
-## Education  
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <strong>Indian Institute of Technology, Madras</strong>
-  <span><strong>Sep 2022 – Present</strong></span>
+##  Education
+
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 2px;">
+  <span style="font-size: 1.15em; font-weight: bold; color: #1f2328;">Indian Institute of Technology, Madras</span>
+  <span style="font-weight: bold; color: #57606a;">Sep 2022 – Present</span>
 </div>
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <em>Bachelor of Science in Data Science and Applications</em>
-  <span><strong>CGPA: 8.5 / 10.0</strong></span>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+  <span style="font-style: italic; color: #24292f;">Bachelor of Science in Data Science and Applications</span>
+  <span style="font-weight: bold; color: #2da44e; background-color: #dafbe1; padding: 2px 8px; border-radius: 6px; font-size: 0.9em;">CGPA: 8.5 / 10.0</span>
 </div>
 
+### Academic Achievements
+* **Completed Diplomas:** Diploma in Programming & Diploma in Data Science *(including 2 primary hands-on projects in each diploma)*.
+* **Completed Foundation:** Linear Algebra, Calculus, Graph Theory, Descriptive & Inferential Statistics, Computational Thinking, Python, and Communication Skills.
 
-**Core Subjects:** Deep Learning, AI-Search Methods, Software Engineering, Maths for Gen-AI, DL with Computer Vision, LLM, Deep Learning with Coding in Pytorch
-**Completed Diplomas:** Diploma in Programming; Diploma in Data Science with 2 primary handson project in each diploma.
-**Completed Foundation:** Linear Algebra, Calculus, Graph Theory, Descriptive & Inferential Statistics, Computational Thinking, Python, Communication Skills
+###  Core Coursework
+
+| AI & Machine Learning | Software & Mathematics |
+| :--- | :--- |
+| • Deep Learning<br>• AI-Search Methods<br>• DL with Computer Vision<br>• Large Language Models (LLMs) | • Software Engineering<br>• Maths for Gen-AI<br>• Deep Learning with PyTorch |
 
 ---
 
