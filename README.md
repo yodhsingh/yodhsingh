@@ -16,16 +16,21 @@ Final-year B.S. Data Science student skilled in statistics, machine learning, da
 
 ---
 
-##  Education
+## 🎓 Education
 
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 2px;">
+* **Indian Institute of Technology, Madras** <br>
+  _Bachelor of Science in Data Science and Applications_
+  <br> **Timeline:** Sep 2022 – Present ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` **CGPA:** 8.5 / 10.0
+
+
+<!-- <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 2px;">
   <span style="font-size: 1.15em; font-weight: bold; color: #1f2328;">Indian Institute of Technology, Madras</span>
   <span style="font-weight: bold; color: #57606a;">Sep 2022 – Present</span>
 </div>
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
   <span style="font-style: italic; color: #24292f;">Bachelor of Science in Data Science and Applications</span>
   <span style="font-weight: bold; color: #2da44e; background-color: #dafbe1; padding: 2px 8px; border-radius: 6px; font-size: 0.9em;">CGPA: 8.5 / 10.0</span>
-</div>
+</div> -->
 
 ### Academic Achievements
 * **Completed Diplomas:** Diploma in Programming & Diploma in Data Science *(including 2 primary hands-on projects in each diploma)*.
