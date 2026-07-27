@@ -17,8 +17,9 @@ Final-year B.S. Data Science student skilled in statistics, machine learning, da
 ---
 
 ## Education  
-**Indian Institute of Technology, Madras**   Bachelor of Science in Data Science and Applications   Sep 2022 – Present 
-CGPA: 8.5 / 10.0
+**Indian Institute of Technology, Madras**                                                   Sep 2022 – Present 
+ Bachelor of Science in Data Science and Applications                                        **CGPA: 8.5 / 10.0**
+
 
 **Core Subjects:** Deep Learning, AI-Search Methods, Software Engineering, Maths for Gen-AI, DL with Computer Vision, LLM, Deep Learning with Coding in Pytorch
 **Completed Diplomas:** Diploma in Programming; Diploma in Data Science with 2 primary handson project in each diploma.
