@@ -60,7 +60,7 @@ Jan 2025 – Apr 2025
 - Implemented asynchronous processing with Celery and Redis  
 - Enabled reporting and CSV export features  
 
-**Business Data Management – Juice Bar Analysis**  
+**Business Data Management – Menu Optimization for Juice Bar**  
 - Conducted sales analysis and forecasting  
 - Developed visualizations and statistical reports using Python  
 - Provided actionable insights for business decision-making  
