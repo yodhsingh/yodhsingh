@@ -12,7 +12,7 @@ Phone: +91-9878200213
 ---
 
 ## Professional Summary  
-Highly analytical student specializing in Generative AI, Large Language Models (LLMs), and prompt engineering. Experienced in developing and deploying scalable full-stack AI applications using Python, Flask, and modern web technologies. Interested in applying AI to business development and staffing technology, with a focus on practical impact and technical rigor.
+Final-year B.S. Data Science student skilled in statistics, machine learning, data analysis, and Python, with experience in AI problem-solving and award-winning capstone projects.
 
 ---
 
@@ -20,23 +20,25 @@ Highly analytical student specializing in Generative AI, Large Language Models (
 **Indian Institute of Technology, Madras**  
 Bachelor of Science in Data Science and Applications  
 Sep 2022 – Present 
-CGPA: 8.5 / 10.0  
+CGPA: 8.5 / 10.0
 
-Relevant Coursework: Linear Algebra, Calculus, Graph Theory, Machine Learning, Deep Learning, Statistics, Data Structures  
+**Core Subjects:** Deep Learning, AI-Search Methods, Software Engineering, Maths for Gen-AI, DL with Computer Vision, LLM, Deep Learning with Coding in Pytorch
+**Completed Diplomas:** Diploma in Programming; Diploma in Data Science with 2 primary handson project in each diploma.
+**Completed Foundation:** Linear Algebra, Calculus, Graph Theory, Descriptive & Inferential Statistics, Computational Thinking, Python, Communication Skills
 
 ---
 
 ## Technical Skills  
 
-**Programming Languages:** Python, SQL, R, Java, JavaScript, TypeScript  
+**Programming Languages:** Python, SQL, R, Java, JavaScript
 
-**Data Science & Machine Learning:** NumPy, Pandas, Matplotlib, Scikit-Learn, PyTorch  
+**Data Science & Machine Learning:** NumPy, Pandas, Matplotlib, Scikit-Learn, PyTorch, TensorFlow
 
 **Generative AI & NLP:** Transformers (GPT, LLaMA), Prompt Engineering, RAG Pipelines  
 
 **Full-Stack Development:** Flask, FastAPI, React, Vue.js, Tailwind CSS  
 
-**Infrastructure & Databases:** PostgreSQL, SQLAlchemy, Redis, Celery, AWS (Foundational)  
+**Infrastructure & Databases:** PostgreSQL, SQLAlchemy, Redis, Celery
 
 ---
 
