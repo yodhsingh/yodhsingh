@@ -17,9 +17,14 @@ Final-year B.S. Data Science student skilled in statistics, machine learning, da
 ---
 
 ## Education  
-$**Indian Institute of Technology, Madras** \:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:                     **Sep 2022 – Present**$ <br>
-
-$*Bachelor of Science in Data Science and Applications* :\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:                   **CGPA: 8.5 / 10.0**$
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <strong>Indian Institute of Technology, Madras</strong>
+  <span><strong>Sep 2022 – Present</strong></span>
+</div>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <em>Bachelor of Science in Data Science and Applications</em>
+  <span><strong>CGPA: 8.5 / 10.0</strong></span>
+</div>
 
 
 **Core Subjects:** Deep Learning, AI-Search Methods, Software Engineering, Maths for Gen-AI, DL with Computer Vision, LLM, Deep Learning with Coding in Pytorch
