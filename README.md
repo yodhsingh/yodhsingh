@@ -1,101 +1,196 @@
-# Dalyodh Singh  
 
-AI/ML & Full-Stack Developer  
-Indian Institute of Technology, Madras  
 
-Email: 22f3001166@ds.study.iitm.ac.in  
-Phone: +91-9878200213  
+# Dalyodh Singh
+
+### AI/ML and Full-Stack Developer
+
+Data Science student at the Indian Institute of Technology, Madras, interested in building practical systems at the intersection of AI, data, software, and real-world problem solving.
+
+I enjoy taking a problem from data and experimentation to a working application.
+
+Currently working across machine learning, deep learning, computer vision, generative AI, Hugging Face, and full-stack web development. Several projects are currently private while under active development.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-764ba2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yodhsingh.github.io/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dalyodh%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dalyodh-singh-786914254/)
 
 ---
 
-## Professional Summary  
-Final-year B.S. Data Science student skilled in statistics, machine learning, data analysis, and Python, with experience in AI problem-solving and award-winning capstone projects.
+## What I Build
+
+AI and Machine Learning
+
+Machine learning, deep learning, computer vision, NLP, predictive modeling, and model evaluation.
+
+Generative AI
+
+LLM applications, prompt engineering, RAG pipelines, AI assisted workflows, and experimentation with modern transformer models.
+
+Full Stack Applications
+
+Web applications that connect user experiences with APIs, databases, AI services, and data driven workflows.
+
+Data and Analytics
+
+Exploratory analysis, visualization, statistics, forecasting, and data driven decision making.
 
 ---
 
-## 🎓 Education
+## Featured Projects
 
-* **Indian Institute of Technology, Madras** <br>
-  _Bachelor of Science in Data Science and Applications_
-  <br> **Timeline:** Sep 2022 – Present ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` **CGPA:** 8.5 / 10.0
+### HireWave.ai
 
+GenAI powered asynchronous interview platform developed as a collaborative Software Engineering project at IIT Madras.
 
-<!-- <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 2px;">
-  <span style="font-size: 1.15em; font-weight: bold; color: #1f2328;">Indian Institute of Technology, Madras</span>
-  <span style="font-weight: bold; color: #57606a;">Sep 2022 – Present</span>
-</div>
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
-  <span style="font-style: italic; color: #24292f;">Bachelor of Science in Data Science and Applications</span>
-  <span style="font-weight: bold; color: #2da44e; background-color: #dafbe1; padding: 2px 8px; border-radius: 6px; font-size: 0.9em;">CGPA: 8.5 / 10.0</span>
-</div> -->
+Built across frontend, backend, database, and AI services with a focus on turning generative AI into a practical hiring workflow.
 
-### Academic Achievements
-* **Completed Diplomas:** Diploma in Programming & Diploma in Data Science *(including 2 primary hands-on projects in each diploma)*.
-* **Completed Foundation:** Linear Algebra, Calculus, Graph Theory, Descriptive & Inferential Statistics, Computational Thinking, Python, and Communication Skills.
+Technologies include React, Next.js, FastAPI, PostgreSQL, and Generative AI.
 
-###  Core Coursework
+[View Project](https://github.com/yodhsingh/hirewave-ai)
 
-| AI & Machine Learning | Software & Mathematics |
-| :--- | :--- |
-| • Deep Learning<br>• AI-Search Methods<br>• DL with Computer Vision<br>• Large Language Models (LLMs) | • Software Engineering<br>• Maths for Gen-AI<br>• Deep Learning with PyTorch |
+### Heavy Equipment Price Prediction
 
----
+Machine learning regression project focused on predicting equipment selling prices using structured and transactional data.
 
-## Technical Skills  
+Explored XGBoost, CatBoost, LightGBM, Random Forest, validation, hyperparameter tuning, and ensemble modeling.
 
-**Programming Languages:** Python, SQL, R, Java, JavaScript
+### Malware Detection
 
-**Data Science & Machine Learning:** NumPy, Pandas, Matplotlib, Scikit-Learn, PyTorch, TensorFlow
+Machine learning pipeline developed using more than 100,000 samples and more than 180 features.
 
-**Generative AI & NLP:** Transformers (GPT, LLaMA), Prompt Engineering, RAG Pipelines  
+Compared Logistic Regression, Decision Trees, and XGBoost while applying cross validation and hyperparameter tuning.
 
-**Full-Stack Development:** Flask, FastAPI, React, Vue.js, Tailwind CSS  
+### Quiz Master
 
-**Infrastructure & Databases:** PostgreSQL, SQLAlchemy, Redis, Celery
+Role based online examination platform built with Vue and Flask.
+
+Includes asynchronous processing with Celery and Redis, reporting, and CSV export.
+
+### Menu Optimization
+
+Data analysis and forecasting project based on sales data from a real business.
+
+Used Python, statistics, visualization, and forecasting to identify patterns and support business decisions.
 
 ---
 
-## Projects  
+## Current Work
 
-**HireWave.AI – GenAI Interview Platform**  
-Sep 2025 – Dec 2025  
-- Developed a full-stack platform using React, FastAPI, and PostgreSQL for automated candidate screening  
-- Built an LLM-based system using Gemini APIs for interview question generation  
-- Followed Agile development practices for iterative improvement  
+I am currently working on a range of private projects in
 
-**Malware Detection using Machine Learning**  
-Jan 2025 – Apr 2025  
-- Analyzed over 100,000 samples with 180+ features  
-- Implemented and compared Logistic Regression, Decision Trees, and XGBoost  
-- Applied cross-validation and hyperparameter tuning for performance optimization  
+AI and Machine Learning
 
-**Quiz Master – Online Examination System**  
-Jan 2025 – Apr 2025  
-- Built a role-based quiz platform using Vue 3 and Flask REST API  
-- Implemented asynchronous processing with Celery and Redis  
-- Enabled reporting and CSV export features  
+Deep Learning
 
-**Business Data Management – Menu Optimization for Juice Bar**  
-- Conducted sales analysis and forecasting  
-- Developed visualizations and statistical reports using Python  
-- Provided actionable insights for business decision-making  
+Computer Vision
+
+Generative AI and LLMs
+
+Hugging Face
+
+Full Stack Web Development
+
+Data Analysis and Visualization
+
+These projects are currently under development and will be published as they become ready.
 
 ---
 
-## Experience and Leadership  
+## Leadership and Collaboration
 
-**Mathematics Mentor**  
-- Mentored students in Linear Algebra and Calculus  
-- Focused on simplifying complex concepts for better understanding  
+I enjoy working on problems that require both technical ownership and collaboration.
 
-**College Sports Captain (Volleyball and Basketball)**  
-- Led teams in competitive events  
-- Demonstrated leadership, discipline, and strategic decision-making  
+My approach to team projects is centered around
+
+Problem decomposition
+
+Clear technical planning
+
+Communication across different skill sets
+
+Helping teammates solve technical blockers
+
+Connecting separate components into one working system
+
+Taking ownership of integration and delivery
+
+I have also worked as a Mathematics Mentor and served as a College Sports Captain for Volleyball and Basketball, experiences that strengthened my communication, coordination, discipline, and decision making.
 
 ---
 
-## Interests  
-Building AI-driven applications for real-world problem solving, data analysis, and scalable web systems  
+## Technical Foundation
+
+Programming
+
+Python, SQL, R, Java, JavaScript
+
+Machine Learning and Data Science
+
+NumPy, Pandas, Matplotlib, Scikit Learn, PyTorch, TensorFlow
+
+Generative AI and NLP
+
+Transformers, GPT, LLaMA, Prompt Engineering, RAG Pipelines
+
+Full Stack Development
+
+Flask, FastAPI, React, Vue.js, Tailwind CSS
+
+Infrastructure and Databases
+
+PostgreSQL, SQLAlchemy, Redis, Celery
+
+---
+
+## Education
+
+Indian Institute of Technology, Madras
+
+Bachelor of Science in Data Science and Applications
+
+September 2022 to Present
+
+CGPA 8.5 out of 10
+
+Completed Diplomas in Programming and Data Science with hands on projects.
+
+Academic foundation includes Linear Algebra, Calculus, Graph Theory, Descriptive and Inferential Statistics, Computational Thinking, Python, and Communication Skills.
+
+Relevant coursework includes Deep Learning, Artificial Intelligence Search Methods, Deep Learning with Computer Vision, Large Language Models, Software Engineering, Mathematics for Generative AI, and Deep Learning with PyTorch.
+
+---
+
+## Project Snapshots
+
+Screenshots from selected projects will be added here.
+
+### HireWave.ai
+
+Add screenshot here
+
+### Machine Learning
+
+Add screenshot here
+
+### Data Analysis
+
+Add screenshot here
+
+---
+
+## Interests
+
+AI driven applications
+
+Machine learning and deep learning
+
+Computer vision
+
+Generative AI
+
+Data driven decision making
+
+Full stack systems
+
+Real world problem solving
+
+
