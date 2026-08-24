@@ -6,17 +6,6 @@ Data Science student at the Indian Institute of Technology, Madras, building pra
 
 I enjoy turning complex ideas into useful products: exploring data, training models, designing intelligent workflows, and connecting them to applications that people can actually use.
 
-<p align="left">
-  <a href="https://yodhsingh.github.io/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://www.linkedin.com/in/dalyodh-singh-786914254/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-
----
-
 ## What I Build
 
 My work sits at the intersection of intelligent systems and practical software. I explore how data can be transformed into predictions, how models can become useful products, and how modern AI can improve everyday workflows.
@@ -105,5 +94,5 @@ AI-driven applications · Machine Learning · Deep Learning · Computer Vision �
   ·
   <a href="https://www.linkedin.com/in/dalyodh-singh-786914254/">LinkedIn</a>
   ·
-  <a href="https://github.com/yodhsingh">GitHub</a>
+  <a href="https://www.youtube.com/@algebrist">Youtube</a>
 </p>
