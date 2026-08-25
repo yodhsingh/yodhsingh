@@ -97,10 +97,6 @@ Completed Diplomas in Programming and Data Science.
   <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://github.com/yodhsingh">
-  <img src="https://img.shields.io/badge/GitHub-Explore_My_Code-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
 <a href="https://www.youtube.com/@algebrist">
   <img src="https://img.shields.io/badge/YouTube-Watch_My_Content-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
