@@ -20,6 +20,56 @@ I also explore **Generative AI, Large Language Models, RAG, prompt engineering, 
 
 ## Featured Projects
 
+
+
+<table>
+<tr>
+<td width="70%">
+
+HireWave.ai
+
+A GenAI-powered asynchronous interview platform developed as a collaborative Software Engineering project at IIT Madras.
+
+The system brings together interview workflows, AI services, backend APIs, and persistent data into a practical hiring experience.
+
+Stack: React · Next.js · FastAPI · PostgreSQL · Generative AI
+
+</td>
+<td width="30%" align="center">
+
+<a href="https://github.com/yodhsingh/hirewave-ai">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
+</table>
+
+📈 Machine Learning
+
+<table>
+<tr>
+<td width="70%">
+
+Heavy Equipment Price Prediction
+
+A regression project focused on predicting equipment selling prices from structured data.
+
+The project explores preprocessing, model comparison, validation, hyperparameter tuning, and ensemble methods.
+
+Stack: XGBoost · CatBoost · LightGBM · Random Forest
+
+</td>
+<td width="30%" align="center">
+
+<a href="https://github.com/yodhsingh/regression">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
+
+
 | Project | Description | Technologies |
 | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
 | [HireWave.ai](https://github.com/yodhsingh/hirewave-ai) | A GenAI-powered asynchronous interview platform developed as a collaborative Software Engineering project at IIT Madras. It brings together interview workflows, AI services, backend APIs, and persistent data into a practical hiring experience. | React, Next.js, FastAPI, PostgreSQL, Generative AI |
