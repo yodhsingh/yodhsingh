@@ -2,9 +2,7 @@
 
 ### AI/ML & Full-Stack Developer
 
-Data Science student at the Indian Institute of Technology, Madras, building practical systems that connect machine learning, generative AI, data, and full-stack development.
-
-I enjoy turning complex ideas into useful products: exploring data, training models, designing intelligent workflows, and connecting them to applications that people can actually use.
+**Currently exploring and building projects across AI/ML, deep learning, computer vision, full-stack development and Generative AI.**
 
 ## What I Build
 
