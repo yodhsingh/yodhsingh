@@ -2,40 +2,57 @@
 
 ### AI/ML & Full-Stack Developer
 
-**Currently exploring and building projects across AI/ML, deep learning, computer vision, full-stack development and Generative AI.**
+I like turning real-world problems into practical AI and software systems.
+
+I enjoy understanding a problem first — exploring the data, experimenting with models, and then building the surrounding software needed to turn an idea into something usable.
+
+My work spans Machine Learning, Deep Learning, Computer Vision, Generative AI, and Full-Stack Development, with a focus on learning by building.
+
+---
 
 ## What I Build
 
-My work sits at the intersection of intelligent systems and practical software. I explore how data can be transformed into predictions, how models can become useful products, and how modern AI can improve everyday workflows.
+I work on machine learning problems across classification, regression, forecasting, computer vision, and natural language processing.
 
-I build machine learning and deep learning solutions for classification, regression, forecasting, computer vision, and natural language processing. I also experiment with generative AI, large language models, prompt engineering, retrieval-augmented generation, and Hugging Face tools.
+Beyond model training, I am interested in what makes an AI solution useful in practice — from data preprocessing and evaluation to APIs, interfaces, databases, and deployment.
 
-Alongside model development, I create full-stack applications that connect interfaces, APIs, databases, background services, and AI-powered features into complete user experiences.
+I also explore Generative AI and Large Language Models through prompt engineering, Retrieval-Augmented Generation (RAG), and Hugging Face tools.
 
 ---
 
 ## Featured Projects
 
-| Project                                                                     | Description                                                                                                                                                                                                                                             | Technologies                                       |
-| --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
-| [HireWave.ai](https://github.com/yodhsingh/hirewave-ai)                     | A GenAI-powered asynchronous interview platform developed as a collaborative Software Engineering project at IIT Madras. The project combines interview workflows, AI services, backend APIs, and persistent data into one practical hiring experience. | React, Next.js, FastAPI, PostgreSQL, Generative AI |
-| [Heavy Equipment Price Prediction](https://github.com/yodhsingh/regression) | A regression project focused on predicting equipment selling prices from structured data. The work explores model comparison, validation, hyperparameter tuning, and ensemble methods.                                                                  | XGBoost, CatBoost, LightGBM, Random Forest         |
-| [Malware Detection](https://github.com/yodhsingh/machine_learning)          | A malware classification pipeline built using more than 100,000 samples and over 180 features, with a focus on model evaluation, cross-validation, and reliable classification performance.                                                             | Python, Scikit-learn, XGBoost                      |
-| [Quiz Master](https://github.com/yodhsingh/quiz_master)                     | A role-based online examination platform designed to manage quizzes, user roles, reporting, and CSV exports while supporting asynchronous background processing.                                                                                        | Vue, Flask, Celery, Redis                          |
-| [Menu Optimization](https://github.com/yodhsingh/Menu-Optimization)         | A data analysis and forecasting project that studies sales patterns to support menu planning and data-driven business decisions.                                                                                                                        | Python, Statistics, Visualization                  |
-| [All About Matrix](https://github.com/yodhsingh/allabout-matrix)            | A Hugging Face project focused on matrix multiplication calculations, combining mathematical concepts with an interactive machine learning and model-sharing ecosystem.                                                                                 | Python, Hugging Face, Mathematics                  |
+| Project | Description | Technologies |
+| --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| [HireWave.ai](https://github.com/yodhsingh/hirewave-ai) | A GenAI-powered asynchronous interview platform developed as a collaborative Software Engineering project at IIT Madras. It brings together interview workflows, AI services, backend APIs, and persistent data into a practical hiring experience. | React, Next.js, FastAPI, PostgreSQL, Generative AI |
+| [Heavy Equipment Price Prediction](https://github.com/yodhsingh/regression) | A regression project focused on predicting equipment selling prices from structured data, exploring preprocessing, model comparison, validation, hyperparameter tuning, and ensemble methods. | XGBoost, CatBoost, LightGBM, Random Forest |
+| [Malware Detection](https://github.com/yodhsingh/machine_learning) | A malware classification pipeline built using more than 100,000 samples and over 180 features, focusing on preprocessing, model evaluation, cross-validation, and classification performance. | Python, Scikit-learn, XGBoost |
+| [Quiz Master](https://github.com/yodhsingh/quiz_master) | A role-based online examination platform for managing quizzes, users, reporting, and CSV exports, with asynchronous background processing. | Vue, Flask, Celery, Redis |
+| [Menu Optimization](https://github.com/yodhsingh/Menu-Optimization) | A data analysis project that studies sales patterns to support menu planning and data-driven business decisions. | Python, Statistics, Visualization |
+| [All About Matrix](https://github.com/yodhsingh/allabout-matrix) | A Hugging Face project focused on matrix multiplication calculations, connecting mathematical concepts with an interactive machine learning and model-sharing ecosystem. | Python, Hugging Face, Mathematics |
+
+---
+
+## How I Approach Problems
+
+I enjoy working through problems step by step:
+
+**Understand → Explore the data → Experiment → Build → Evaluate → Improve**
+
+I am particularly interested in the space where different parts of a system come together — where data, machine learning, software engineering, and user-facing applications turn an idea into a working product.
 
 ---
 
 ## Current Work
 
-I am currently developing private projects across machine learning, deep learning, computer vision, generative AI, Hugging Face, full-stack development, and data visualization.
+I am currently exploring projects across **Machine Learning, Deep Learning, Computer Vision, Generative AI, and Full-Stack Development**.
 
-These projects are focused on moving beyond isolated experiments and building complete systems: applications where models, APIs, interfaces, and data pipelines work together. More projects will be published as they become ready.
+Some of these projects are still under active development and remain private for now. As they mature, I plan to publish selected work along with the technical decisions, results, and lessons learned behind them.
 
-`Machine Learning` · `Deep Learning` · `Computer Vision` · `Generative AI` · `Hugging Face` · `Full-Stack Development` · `Data Visualization`
+`Machine Learning` · `Deep Learning` · `Computer Vision` · `Generative AI` · `Hugging Face` · `Full-Stack Development` · `Data & Visualization`
 
 ---
+
 
 ## Technical Skills
 
@@ -51,12 +68,11 @@ These projects are focused on moving beyond isolated experiments and building co
 
 ## Leadership & Collaboration
 
-My approach to technical work is shaped by both project experience and team collaboration. I enjoy breaking down ambiguous problems, planning practical solutions, debugging difficult issues, and connecting separate components into a working system.
+I enjoy bringing different perspectives together, breaking down complex problems, and helping teams move toward a common goal.
 
-* Mathematics Mentor
-* College Sports Captain for Volleyball and Basketball
-* Experienced in problem decomposition, technical planning, team coordination, debugging, and project integration
-
+- **Software Engineering Project Lead** — aligned team members with different approaches toward a shared technical direction.
+- **Mathematics & BDM Mentor** — helped peers understand concepts, project requirements, and practical problem-solving approaches.
+- **College Sports Captain** — led volleyball and basketball teams through strategy, coordination, and communication.
 ---
 
 ## Education
@@ -88,9 +104,11 @@ AI-driven applications · Machine Learning · Deep Learning · Computer Vision �
 ---
 
 <p align="center">
-  <a href="https://yodhsingh.github.io/portfolio">Portfolio</a>
-  ·
-  <a href="https://www.linkedin.com/in/dalyodh-singh-786914254/">LinkedIn</a>
-  ·
-  <a href="https://www.youtube.com/@algebrist">Youtube</a>
+
+<a href="https://yodhsingh.github.io/portfolio">Portfolio</a>
+·
+<a href="https://www.linkedin.com/in/dalyodh-singh-786914254/">LinkedIn</a>
+·
+<a href="https://www.youtube.com/@algebrist">YouTube</a>
+
 </p>
