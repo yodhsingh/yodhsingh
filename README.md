@@ -37,7 +37,21 @@ I also explore Generative AI and Large Language Models through prompt engineerin
 
 I enjoy working through problems step by step:
 
-**Understand → Explore the data → Experiment → Build → Evaluate → Improve**
+<p align="center">
+
+Understand
+↓
+Explore the Data
+↓
+Experiment
+↓
+Build
+↓
+Evaluate
+↓
+Improve
+
+</p>
 
 I am particularly interested in the space where different parts of a system come together — where data, machine learning, software engineering, and user-facing applications turn an idea into a working product.
 
@@ -45,12 +59,19 @@ I am particularly interested in the space where different parts of a system come
 
 ## Current Work
 
-I am currently exploring projects across **Machine Learning, Deep Learning, Computer Vision, Generative AI, and Full-Stack Development**.
+I am currently exploring projects across:
 
-Some of these projects are still under active development and remain private for now. As they mature, I plan to publish selected work along with the technical decisions, results, and lessons learned behind them.
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine_Learning-2E86C1?style=flat-square">
+  <img src="https://img.shields.io/badge/Deep_Learning-6C3483?style=flat-square">
+  <img src="https://img.shields.io/badge/Computer_Vision-117A65?style=flat-square">
+  <img src="https://img.shields.io/badge/Generative_AI-B03A2E?style=flat-square">
+  <img src="https://img.shields.io/badge/Hugging_Face-F39C12?style=flat-square">
+  <img src="https://img.shields.io/badge/Full--Stack-34495E?style=flat-square">
+  <img src="https://img.shields.io/badge/Data_%26_Visualization-2C3E50?style=flat-square">
+</p>
 
-`Machine Learning` · `Deep Learning` · `Computer Vision` · `Generative AI` · `Hugging Face` · `Full-Stack Development` · `Data & Visualization`
-
+Some projects are still under active development and remain private for now. As they mature, I plan to publish selected work along with the technical decisions, results, and lessons learned behind them.
 ---
 
 
