@@ -2,21 +2,19 @@
 
 ### AI/ML & Full-Stack Developer
 
-I like turning real-world problems into practical AI and software systems.
+I build AI and software systems by turning real-world problems into practical solutions.
 
-I enjoy understanding a problem first — exploring the data, experimenting with models, and then building the surrounding software needed to turn an idea into something usable.
+My approach starts with understanding the problem and the data, experimenting with models, and building the software needed to make the solution useful.
 
-My work spans Machine Learning, Deep Learning, Computer Vision, Generative AI, and Full-Stack Development, with a focus on learning by building.
+**Focus:** Machine Learning · Deep Learning · Computer Vision · Generative AI · Full-Stack Development
 
 ---
 
 ## What I Build
 
-I work on machine learning problems across classification, regression, forecasting, computer vision, and natural language processing.
+I work across **classification, regression, forecasting, computer vision, and NLP**, with an interest in taking ML beyond experiments into usable applications.
 
-Beyond model training, I am interested in what makes an AI solution useful in practice — from data preprocessing and evaluation to APIs, interfaces, databases, and deployment.
-
-I also explore Generative AI and Large Language Models through prompt engineering, Retrieval-Augmented Generation (RAG), and Hugging Face tools.
+I also explore **Generative AI, Large Language Models, RAG, prompt engineering, and Hugging Face** while building systems that connect models with APIs, databases, and user-facing applications.
 
 ---
 
@@ -37,21 +35,7 @@ I also explore Generative AI and Large Language Models through prompt engineerin
 
 I enjoy working through problems step by step:
 
-<p align="center">
-
-Understand
-↓
-Explore the Data
-↓
-Experiment
-↓
-Build
-↓
-Evaluate
-↓
-Improve
-
-</p>
+**Understand → Explore the data → Experiment → Build → Evaluate → Improve**
 
 I am particularly interested in the space where different parts of a system come together — where data, machine learning, software engineering, and user-facing applications turn an idea into a working product.
 
@@ -59,71 +43,16 @@ I am particularly interested in the space where different parts of a system come
 
 ## Current Work
 
-I am currently exploring projects across:
+I am currently exploring projects across **Machine Learning, Deep Learning, Computer Vision, Generative AI, and Full-Stack Development**.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine_Learning-2E86C1?style=flat-square">
-  <img src="https://img.shields.io/badge/Deep_Learning-6C3483?style=flat-square">
-  <img src="https://img.shields.io/badge/Computer_Vision-117A65?style=flat-square">
-  <img src="https://img.shields.io/badge/Generative_AI-B03A2E?style=flat-square">
-  <img src="https://img.shields.io/badge/Hugging_Face-F39C12?style=flat-square">
-  <img src="https://img.shields.io/badge/Full--Stack-34495E?style=flat-square">
-  <img src="https://img.shields.io/badge/Data_%26_Visualization-2C3E50?style=flat-square">
-</p>
+Some of these projects are still under active development and remain private for now. As they mature, I plan to publish selected work along with the technical decisions, results, and lessons learned behind them.
 
-Some projects are still under active development and remain private for now. As they mature, I plan to publish selected work along with the technical decisions, results, and lessons learned behind them.
+`Machine Learning` · `Deep Learning` · `Computer Vision` · `Generative AI` · `Hugging Face` · `Full-Stack Development` · `Data & Visualization`
+
 ---
 
 
 ## Technical Skills
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square">
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-</p>
-
-Machine Learning & Data
-
-<p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square">
-</p>
-
-Generative AI & NLP
-
-<p>
-<img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
-<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square">
-<img src="https://img.shields.io/badge/Prompt_Engineering-5B2C6F?style=flat-square">
-<img src="https://img.shields.io/badge/RAG-1B4F72?style=flat-square">
-</p>
-
-Web Development
-
-<p>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
-</p>
-
-Databases & Tools
-
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square">
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
-<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white">
-</p>
 
 | Category                | Technologies                                                 |
 | ----------------------- | ------------------------------------------------------------ |
@@ -156,23 +85,7 @@ Completed Diplomas in Programming and Data Science.
 
 ---
 
-## Project Snapshots
-
-| Project          | Screenshot          |
-| ---------------- | ------------------- |
-| HireWave.ai      | Add screenshot here |
-| Machine Learning | Add screenshot here |
-| Data Analysis    | Add screenshot here |
-
----
-
-## Interests
-
-AI-driven applications · Machine Learning · Deep Learning · Computer Vision · Generative AI · Data-driven Decision Making · Full-Stack Systems
-
----
-
-Let's Connect
+## Let's Connect
 
 <p align="center">
 
@@ -192,8 +105,4 @@ Let's Connect
   <img src="https://img.shields.io/badge/YouTube-Watch_My_Content-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
-</p>
-
-<p align="center">
-  <i>Learning by building · Building by solving · Growing through collaboration</i>
 </p>
