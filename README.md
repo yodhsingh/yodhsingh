@@ -56,6 +56,16 @@ Some of these projects are still under active development and remain private for
 
 ## Technical Skills
 
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square">
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+</p>
+
+
+
 | Category                | Technologies                                                 |
 | ----------------------- | ------------------------------------------------------------ |
 | Languages               | Python, SQL, R, Java, JavaScript                             |
@@ -103,12 +113,28 @@ AI-driven applications · Machine Learning · Deep Learning · Computer Vision �
 
 ---
 
+Let's Connect
+
 <p align="center">
 
-<a href="https://yodhsingh.github.io/portfolio">Portfolio</a>
-·
-<a href="https://www.linkedin.com/in/dalyodh-singh-786914254/">LinkedIn</a>
-·
-<a href="https://www.youtube.com/@algebrist">YouTube</a>
+<a href="https://yodhsingh.github.io/portfolio">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Work-2E86C1?style=for-the-badge">
+</a>
 
+<a href="https://www.linkedin.com/in/dalyodh-singh-786914254/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/yodhsingh">
+  <img src="https://img.shields.io/badge/GitHub-Explore_My_Code-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.youtube.com/@algebrist">
+  <img src="https://img.shields.io/badge/YouTube-Watch_My_Content-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+
+</p>
+
+<p align="center">
+  <i>Learning by building · Building by solving · Growing through collaboration</i>
 </p>
