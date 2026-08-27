@@ -40,7 +40,7 @@ I enjoy working through problems step by step:
 
 **Understand → Explore the data → Experiment → Build → Evaluate → Improve**
 
-I am particularly interested in the space where different parts of a system come together — where data, machine learning, software engineering, and user-facing applications turn an idea into a working product.
+I’m particularly interested in the intersection of data, machine learning, software engineering, and user-facing applications, where ideas are transformed into working products.
 
 ---
 
